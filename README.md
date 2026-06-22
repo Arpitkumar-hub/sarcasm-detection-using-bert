@@ -17,6 +17,13 @@ Sarcasm Detection in News Headlines is a Natural Language Processing (NLP) proje
 The project includes a complete machine learning pipeline consisting of data preprocessing, model training, evaluation, inference, and a Gradio-based web interface for real-time predictions.
 
 ---
+## Demo
+
+![Demo](demo.png.png)
+
+![Demo2](demo2.png.png)
+
+---
 
 ## Features
 
